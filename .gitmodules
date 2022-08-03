@@ -1,0 +1,3 @@
+[submodule "seq2seq-transformer"]
+	path = seq2seq-transformer
+	url = https://github.com/msc42/seq2seq-transformer.git
